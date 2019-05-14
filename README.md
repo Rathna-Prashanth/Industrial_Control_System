@@ -1,5 +1,6 @@
-# Industrial_Control_System
-All ICS components will be controled over a single module through a mobile application
+# Industrial_Control_System <br/>
+
+# All ICS components will be controled over a single module through a mobile application
 
 An Android Application that control over Industrial Systems which are embedded <br/>
 
