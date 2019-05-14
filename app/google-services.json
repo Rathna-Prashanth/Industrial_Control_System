@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "759096222975",
+    "firebase_url": "https://cps-admin.firebaseio.com",
+    "project_id": "cps-admin",
+    "storage_bucket": "cps-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759096222975:android:a2f07e9cc49e80c7",
+        "android_client_info": {
+          "package_name": "prashanth.cps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759096222975-uj1mvl27f2tgkisfqaqjae562mi2e4lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUnKrtfJSp6KwPhvnYulrUQ-H8kMs6gbk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
